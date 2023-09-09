@@ -127,6 +127,14 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="ai-generated-7988836_1280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ai-generated-7988840_1280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="lights-7857135_1280.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
