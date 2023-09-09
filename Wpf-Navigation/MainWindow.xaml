@@ -5,7 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wpf_Navigation"
         mc:Ignorable="d"
-               Title="MainWindow" SnapsToDevicePixels="True" Height="450" Width="800" WindowStyle="None">
+        ResizeMode="NoResize"
+         WindowStartupLocation="CenterScreen"
+        Title="MainWindow" SnapsToDevicePixels="True" Height="450" Width="800" WindowStyle="None">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="50"/>
